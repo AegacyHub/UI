@@ -657,7 +657,7 @@ function  ems:Toggle(text,de,callback)
     TextButton_2_Toggle.TextColor3 = Color3.fromRGB(0, 0, 0)
     TextButton_2_Toggle.TextSize = 12.000
     TextButton_2_Toggle.AutoButtonColor = false 
-
+    
     local TextButton_3_Toggle = Instance.new("TextButton")
 
 
