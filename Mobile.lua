@@ -108,7 +108,7 @@ function create:Win()
     Logo.BorderColor3 = Color3.fromRGB(27, 42, 53)
     Logo.BorderSizePixel = 0
     Logo.Size = UDim2.new(0, 56, 0, 56)
-    Logo.Image = "http://www.roblox.com/asset/?id=109764045877761"
+    Logo.Image = "http://www.roblox.com/asset/?id=99014204606817"
     
     local PageTap = Instance.new("Frame")
     local UIGradient_PageTap = Instance.new("UIGradient")
@@ -681,7 +681,7 @@ function  ems:Toggle(text,de,callback)
     ImageLabel_Toggle.BackgroundTransparency = 1
     ImageLabel_Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     ImageLabel_Toggle.Size = UDim2.new(0, 0, 0, 0)
-    ImageLabel_Toggle.Image = "http://www.roblox.com/asset/?id=11856964799"
+    ImageLabel_Toggle.Image = "http://www.roblox.com/asset/?id=105142643646624"
     ImageLabel_Toggle.AnchorPoint = Vector2.new(0.5, 0.5)
     ImageLabel_Toggle.Position = UDim2.new(0.47, 0, 0.5, 0)
 
